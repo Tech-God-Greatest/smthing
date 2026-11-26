@@ -1,0 +1,15 @@
+{
+    "personal": {
+        "name": "PhantomTestUser"
+    },
+    "preferences": {
+        "favorite_drink": "iced matcha latte",
+        "favorite_color": "blue"
+    },
+    "general": {
+        "preference": "favorite color is blue"
+    },
+    "test_category": {
+        "test_key": "updated_value"
+    }
+}
